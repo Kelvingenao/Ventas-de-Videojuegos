@@ -1,24 +1,26 @@
-# 📊 Análisis de Ventas de Videojuegos (2013 - 2016)
+# 📊 Video Game Sales Analysis (2013 - 2016)
 
-## 📝 Descripción  
-Este proyecto analiza las ventas de videojuegos entre 2013 y 2016, centrándose en las plataformas, géneros y títulos más vendidos. Se utilizan gráficos y estadísticas para identificar tendencias y proporcionar información sobre el mercado de los videojuegos en ese período.  
+## 📝 Description  
+This project analyzes video game sales between 2013 and 2016, focusing on the best-selling platforms, genres, and titles. Charts and statistics are used to identify trends and provide insights into the video game market during that period.  
 
-## 🎯 Objetivo  
-El objetivo principal es visualizar y comprender el comportamiento de las ventas físicas de videojuegos, excluyendo descargas digitales, para determinar qué plataformas, géneros y títulos tuvieron mayor impacto en el mercado.  
+## 🎯 Objective  
+The main objective is to visualize and understand the behavior of **physical video game sales**, excluding digital downloads, in order to determine which platforms, genres, and titles had the greatest impact on the market.  
 
-## 🔧 Herramientas Utilizadas  
+## 🔧 Tools Used  
 - **Python**  
-  - `pandas` → Manipulación y análisis de datos.  
-  - `matplotlib` → Creación de gráficos.  
-  - `seaborn` → Visualización avanzada de datos.  
+  - `pandas` → Data manipulation and analysis  
+  - `matplotlib` → Chart creation  
+  - `seaborn` → Advanced data visualization  
 
-## 📊 Principales Hallazgos  
-- **Juego más vendido:** *Grand Theft Auto V* con 55.92 millones de copias.  
-- **Plataforma con más ventas:** *PS4* con 278.07 millones.  
-- **Género más popular:** *Acción*, con más de 314 millones de copias vendidas.  
-- **Tendencia de ventas:** Disminución progresiva de las ventas desde 2013 hasta 2016, debido en parte al crecimiento de las descargas digitales.  
+## 📊 Key Findings  
+- **Top-selling game:** *Grand Theft Auto V* with 55.92 million copies sold  
+- **Platform with highest sales:** *PS4* with 278.07 million  
+- **Most popular genre:** *Action*, with over 314 million copies sold  
+- **Sales trend:** A progressive decline in physical sales from 2013 to 2016, partly due to the rise of digital downloads  
 
-## 📁 Estructura del Proyecto  
--- **codigos_python/ # Scripts en Python para análisis y visualización
--- **grafico/ # gráficos generados
--- **insight/ # Datos obtenidos del análisis
+## 📁 Project Structure  
+
+- **`codigos_python/`** – Python scripts for analysis and visualization  
+- **`grafico/`** – Generated charts and plots  
+- **`insight/`** – Data insights and findings from the analysis  
+
